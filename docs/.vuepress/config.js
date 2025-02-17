@@ -9,7 +9,7 @@ module.exports = {
   locales: locales,
   
   theme: localTheme({
-    repo: 'jermification/jermification.github.io',
+    repo: 'fnafworldmodding/fnafworldmodding.github.io',
     selectLanguageText: '<i class="fas fa-globe"></i>',
     locales: themeConfigLocales,
     adUnits: [
