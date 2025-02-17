@@ -42,7 +42,7 @@ module.exports = [
       '/credits',
       {
         text: 'Source',
-        link: 'https://github.com/jermification/jermification.github.io/',
+        link: 'https://github.com/fnafworldmodding/fnafworldmodding.github.io/',
       },
       '/site-navigation/',
     ],
