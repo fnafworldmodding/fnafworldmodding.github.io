@@ -18,7 +18,7 @@ module.exports = {
   	toggleDarkMode: "Toggle dark mode",
   	toggleSidebar: "Toggle sidebar",
     
-    discordNoticeText: "For support, ask for help on the FNaF World Modding [Discord Server](https://discord.gg/b4nkySvb7R).",
+    discordNoticeText: "For support, ask for help on the FNaF World Modding [Discord Server](https://discord.gg/fnafworld).",
     repoLabel: '<i class="fab fa-github"></i>',
       
     navbar: require('./navbar'),
