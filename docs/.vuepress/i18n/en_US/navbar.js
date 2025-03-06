@@ -31,7 +31,7 @@ module.exports = [
       '/troubleshooting',
       {
         text: 'Discord',
-        link: 'https://discord.gg/b4nkySvb7R',
+        link: 'https://discord.gg/fnafworld',
       },
     ],
   },
