@@ -1,7 +1,7 @@
 ---
 lang: en_US
 title: "Installing Sideloadly"
-description: Tutorial to install Sideloadly on most iOS devices.
+description: Tutorial to install/use Sideloadly to install apps on iOS devices.
 permalink: /installing-sideloadly
 extra_contributors:
   - ios.cfw.guide team (robbed directly from them)
