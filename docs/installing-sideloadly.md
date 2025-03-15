@@ -8,14 +8,7 @@ extra_contributors:
 ---
 
 ::: danger
-
-If you are using an iOS 16+ Device, you will need to take extra steps beforehand to open sideloaded apps:
-
-1. Open Settings
-1. Go to Privacy & Security and find the `Developer Mode` entry
-1. Toggle Developer Mode on, then press `Reboot`
-1. After the device reboots, unlock it, and confirm that you want to enable Developer Mode
-  - If you have a passcode enabled, you'll need to enter it.
+Sideloadly requires a Windows or MacOS device. Use Scarlet if you do not have a Computer.
 
 :::
 
@@ -24,6 +17,17 @@ If you are using an iOS 16+ Device, you will need to take extra steps beforehand
 ::: tip
 
 Sideloadly is compatible with iOS 7 and newer.
+
+:::
+::: danger
+
+After you sideload and install the app, If you are using an iOS 16+ Device, you will need to take extra steps beforehand to open sideloaded apps:
+
+1. Open Settings
+1. Go to Privacy & Security and find the `Developer Mode` entry
+1. Toggle Developer Mode on, then press `Reboot`
+1. After the device reboots, unlock it, and confirm that you want to enable Developer Mode
+  - If you have a passcode enabled, you'll need to enter it.
 
 :::
 1. Download the latest versions [Sideloadly](https://sideloadly.io/#download), [iTunes](https://www.apple.com/itunes/download/win32) if on Windows, and [iCloud](https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe) if on Windows
