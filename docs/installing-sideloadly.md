@@ -8,6 +8,7 @@ extra_contributors:
 ---
 
 ::: danger
+
 Sideloadly requires a Windows or MacOS device. Use Scarlet if you do not have a Computer.
 
 :::
@@ -19,6 +20,7 @@ Sideloadly requires a Windows or MacOS device. Use Scarlet if you do not have a 
 Sideloadly is compatible with iOS 7 and newer.
 
 :::
+
 ::: danger
 
 After you sideload and install the app, If you are using an iOS 16+ Device, you will need to take extra steps beforehand to open sideloaded apps:
