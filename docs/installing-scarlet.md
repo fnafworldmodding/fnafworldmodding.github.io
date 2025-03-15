@@ -39,4 +39,4 @@ If you are using an iOS 16+ Device, you will need to take extra steps beforehand
 5. Press install.
 6. After Scarlet is downloaded, if you havent already, download the IPA you want to install.
 7. Press the Download button on the bottom middle, and Click the + button to add the IPA you want to install.
-8. This should install your app properly, if it doesn't, refer to [Troubleshooting](https://jermification.github.io/troubleshooting/)
+8. This should install your app properly, if it doesn't, refer to [Troubleshooting](https://jermification.github.io/troubleshooting/). If Troubleshooting doesn't fix it, join the Discord Server, and ask an Admin for help.
