@@ -11,7 +11,9 @@ It is HIGHLY recommended to use TrollStore on versions 14.0b2 - 16.6.1, and 17.0
 
 ## Getting a Certificate
 
-There are many places to get Certificates from, but the most recommended one is [KravaSign](https://kravasign.com/purchase) due to the cheap price.
+There are many places to get Certificates from, but the most recommended one is [KravaSign](https://kravasign.com/purchase) or [DxSign](https://dxsign.cc/purchase) purchase due to the cheap price.
+
+All private Certificates need your iDevice's UDID, you can use [KravaSign's UDID Grabber](https://udid.kravasign.com/) to obtain it.
 
 
 ## Using the Certificate
