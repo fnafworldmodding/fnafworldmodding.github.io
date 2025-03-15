@@ -36,19 +36,19 @@ Select the appropriate page for your version from the chart below. Note that the
       <td style="text-align: center; font-weight: bold;">12.0</td>
       <td style="text-align: center; font-weight: bold;">14.0b1</td>
       <td style="text-align: center;"><router-link to="/installing-appsync">AppSync</router-link> / <router-link to="/installing-sideloadly">Sideloadly</router-link></td>
-      <td style="text-align: center;"><router-link to="/using-certs">Certificates (7-20$)</router-link></td>
+      <td style="text-align: center;"><router-link to="/using-certs">Certificates (5-20$)</router-link></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">14.0b2</td>
       <td style="text-align: center; font-weight: bold;">16.6.1/17.0</td>
       <td style="text-align: center;"><router-link to="/using-trollstore">TrollStore</router-link></td>
-      <td style="text-align: center;"><router-link to="/using-certs">Certificates (7-20$)</router-link></td>
+      <td style="text-align: center;"><router-link to="/using-certs">Certificates (5-20$)</router-link></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">16.7/17.0.1</td>
       <td style="text-align: center; font-weight: bold;">16.7.10/18.3.1</td>
       <td style="text-align: center;"><router-link to="/installing-scarlet">Scarlet</router-link> / <router-link to="/installing-sideloadly">Sideloadly</router-link></td>
-      <td style="text-align: center;"><router-link to="/using-certs">Certificates (7-20$)</router-link></td>
+      <td style="text-align: center;"><router-link to="/using-certs">Certificates (5-20$)</router-link></td>
     </tr>
   </tbody>
 </table>
