@@ -1,0 +1,4 @@
+import{_ as i,o as s,c as a,a as t}from"./app.f12df921.js";const r={};function c(d,e){return s(),a("div",null,e[0]||(e[0]=[t(`<div><div class="credits"><div class="user"><img src="https://github.com/jermification.png"></div><div class="user"><h3>jermified</h3><p>jerm</p><a class="social-icon" href="https://discord.com/users/614629735145930768" target="_blank"><i class="fab fa-discord"></i></a><a class="social-icon" href="https://github.com/jermification" target="_blank"><i class="fab fa-github"></i></a></div></div></div><h2 id="credits" tabindex="-1"><a class="header-anchor" href="#credits" aria-hidden="true">#</a> Credits</h2><pre>    + emiyl (created the example guide)
+    + ios.cfw.guide team (copyed ALOT of stuff)
+    + dontfwthehoes
+</pre>`,3)]))}var n=i(r,[["render",c],["__file","credits.html.vue"]]);export{n as default};

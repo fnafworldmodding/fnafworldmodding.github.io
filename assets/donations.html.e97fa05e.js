@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as t,b as r}from"./app.f12df921.js";const a={};function l(s,n){return e(),t("div",null,n[0]||(n[0]=[r("p",null,"no donations rn lol",-1)]))}var c=o(a,[["render",l],["__file","donations.html.vue"]]);export{c as default};
